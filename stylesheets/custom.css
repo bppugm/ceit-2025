@@ -39,6 +39,7 @@ h1 {
 
 .jumbotron {
   min-height: 400px;
+  filter: opacity(75%);
 }
 
 code {
