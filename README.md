@@ -1,2 +1,2 @@
-# icst-2024
-Website for the ICST UGM 2024
+# ceit-2025
+Website for the CEIT 2025
